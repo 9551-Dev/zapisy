@@ -26,7 +26,10 @@
 
   (module-kinds
     (examplemodule "Example Module")
-    ()
+    (fyz "fyzika")
+    (prg "programování")
+    (dej "dějepis")
+    (cjl "čeština")
   )
 
   (library-path
