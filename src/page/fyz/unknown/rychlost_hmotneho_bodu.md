@@ -6,5 +6,7 @@ module: [kind=fyz] fyz_rychlost_hmotneho_bodu
 - fyzikální veličina
 - jednotka m/s
 
-- <h2 style="color: rgb(200,200,200)">v = s/t<h2>
+- <p class="rovnice">v = s/t<h2>
 - označení V
+
+<link rel="stylesheet" href="../../__formatting__/rovnice.css">

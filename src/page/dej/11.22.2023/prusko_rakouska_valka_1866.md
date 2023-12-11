@@ -1,12 +1,11 @@
 ---
 module: [kind=dej] dej_prusko_rakouska_valka_identifier
 ---
+Zápis o prusko rakouské válce roku 1866
 
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
+# Prusko rakouská válka
 
-# Prusko rakouská válka 1866
+- roku 1866
 
 ### Příčiny
 1. snaha o sjednocení německa
@@ -60,3 +59,6 @@ Dualismus = přejmenoví rakouska na Rakousko Uhersko (R-U)
 Češi zklamání
 ```
 
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>

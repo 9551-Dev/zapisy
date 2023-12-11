@@ -1,6 +1,7 @@
 ---
 module: [kind=dej] dej_obcanska_valka_usa_identifier
 ---
+Zápis o občanské válce v USA
 
 # Občanská válka v USA
 ## vztah k indiánům v USA

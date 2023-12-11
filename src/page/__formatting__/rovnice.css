@@ -1,0 +1,10 @@
+/* <link rel="stylesheet" href="../__formatting__/rovnice.css"> */
+
+.rovnice {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.rovnice, .rovnice * {
+    color: rgb(200, 200, 200);
+}

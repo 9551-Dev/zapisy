@@ -1,6 +1,7 @@
 ---
 module: [kind=fyz] fyz_zachovani_hybnosti_identifier
 ---
+Zápis o zákonu zachování hybnosti do fyziky
 
 # Zákon zachování hybnosti
 

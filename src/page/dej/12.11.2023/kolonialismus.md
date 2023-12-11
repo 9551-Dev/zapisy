@@ -1,6 +1,7 @@
 ---
 module: [kind=dej] dej_kolonialismus_identifier
 ---
+Zápis o kolonialismu do dějepisu
 
 # kolonialismus
 - Kolonialismus je rozšiřování nadvlády určitého národa nad územím mimo jeho vlastní hranice.
