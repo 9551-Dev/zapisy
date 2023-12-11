@@ -25,7 +25,7 @@ jobs:
         cp ./resources/fonts/* ./docs/
     - name: create CNAME
       run: |
-        if [ ! -f "CNAME" ]; then echo "zapisy.devvie.cc" > CNAME; fi
+        if [ ! -f "CNAME" ]; then echo "zapis.devvie.cc" > CNAME; fi
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
