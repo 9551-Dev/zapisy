@@ -2,7 +2,7 @@ name: Build page
 on:
   push:
     branches:
-    - master
+    - main
 jobs:
   build:
     name: Build page
