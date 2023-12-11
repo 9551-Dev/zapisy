@@ -1,0 +1,32 @@
+name: Build page
+on:
+  push:
+    branches:
+    - master
+jobs:
+  build:
+    name: Build page
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v2
+    - name: clean page
+      run: |
+        if [ -d "docs" ]; then rm -r "docs"; fi
+    - name: Setup illuaminate
+      run: |
+        if [ ! -d "bin" ]; then mkdir bin; fi
+        if [ ! -f "bin/illuaminate" ]; then wget -q -O bin/illuaminate https://squiddev.cc/illuaminate/linux-x86-64/illuaminate; fi
+        chmod +x bin/illuaminate
+    - name: Build page
+      run: |
+        ./bin/illuaminate doc-gen
+        cp ./resources/fonts/* ./docs/
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        force_orphan: true
+        commit_message: Build for
