@@ -1,3 +1,7 @@
+---
+module: [kind=fyz] fyz_hybnost_identifier
+---
+
 # Hybnost
 Značeno: `P`
 

@@ -1,3 +1,7 @@
+---
+module: [kind=fyz] fyz_zachovani_hybnosti_identifier
+---
+
 # Zákon zachování hybnosti
 
 <code>P<sub>1</sub> = P<sub>2</sub>

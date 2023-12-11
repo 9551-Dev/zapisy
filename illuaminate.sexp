@@ -26,9 +26,14 @@
 
   (module-kinds
     (examplemodule "Example Module")
+    ()
   )
 
   (library-path
+    /src/page/prg
+    /src/page/fyz
+    /src/page/dej
+    /src/page/cjl
     /src/page/example
   )
 )
