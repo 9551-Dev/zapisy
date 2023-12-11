@@ -1,3 +1,8 @@
+---
+module: [kind=dej] dej_obcanska_valka_usa_identifier
+---
+
+# Občanská válka v USA
 ## vztah k indiánům v USA
 - Střed a západ USA byl násilně obsazen na úkor indiánských kmenů
 - Indiáni jsou zatlačováni do rezervací

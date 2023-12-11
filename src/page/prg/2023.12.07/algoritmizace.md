@@ -1,3 +1,7 @@
+---
+module: [kind=prg] prg_algoritmizace_identifier
+---
+
 # Algoritmizace
 
 ## Historie

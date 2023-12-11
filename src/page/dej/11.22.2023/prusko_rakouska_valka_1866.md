@@ -1,3 +1,7 @@
+---
+module: [kind=dej] dej_prusko_rakouska_valka_identifier
+---
+
 <style type="text/css">
     ol { list-style-type: upper-alpha; }
 </style>
