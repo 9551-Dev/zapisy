@@ -23,6 +23,9 @@ jobs:
       run: |
         ./bin/illuaminate doc-gen
         cp ./resources/fonts/* ./docs/
+    - name: create CNAME
+      run: |
+        if [! -f "CNAME" ]; then echo "zapisy.devvie.cc" > CNAME; fi
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
