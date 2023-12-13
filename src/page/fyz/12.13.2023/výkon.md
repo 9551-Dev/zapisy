@@ -6,6 +6,9 @@ Co je to výkon a jak ho počítáme
 - fyz. veličina
 - označení: `P`
 - jednotka: `W` (watt)
-- <p class="rovnice">P = F/T</p>
+<ul class="rovnice">
+    <p>P = F/T</p>
+    <p>U = U*I</p>
+</ul>
 
 <link rel="stylesheet" href="../../__formatting__/rovnice.css">
