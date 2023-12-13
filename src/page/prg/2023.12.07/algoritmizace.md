@@ -1,8 +1,8 @@
 ---
 module: [kind=prg] prg_algoritmizace_identifier
 ---
-
 # Algoritmizace
+Co je to algoritmus a co je potřeba na to aby vznikl
 
 ## Historie
 - 9\. Století
