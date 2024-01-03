@@ -1,4 +1,4 @@
-// <script src="../__formatting__/latex.js" defer></script>
+// <script src="../../__formatting__/latex.js" defer></script>
 
 (function () {
     let script = document.createElement('script');

@@ -33,3 +33,7 @@ Co vedlo k prvné světové válce
 - Historické rozpory mezi některými státy (Francie x Německo, R-U x Rusko a Osmanská říše...)
 - rozpínavost R-U na balkáně
 - **záminka k válce**: atentát na rakouského následovníka trůnu Františka Ferdinanda d'Este a jeho manželku Žofii
+
+---
+- 28.6.1914 byl v Sarajevu spáchán atentát na rakouského následníka Františka Ferdinanda d'Este
+- Atentát provedl Gavrilo Princip
