@@ -1,9 +1,8 @@
 ---
 module: [kind=fyz] fyz_hybnost_identifier
 ---
-Vlastnosti hybnosti
-
 # Hybnost
+
 - Značeno: `P`
 
 - Jednotka: `Kg * m/s`
