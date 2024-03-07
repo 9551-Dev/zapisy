@@ -19,4 +19,4 @@ module: [kind=etc] etc_klokan_greyuv_identifier
 
 <sub>další řešení: skladba "Řezník - Autogenocida"</sub>
 
-![](gay.jpg)
+![](./gay.jpg)
