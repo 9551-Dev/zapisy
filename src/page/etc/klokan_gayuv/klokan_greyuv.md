@@ -17,6 +17,6 @@ module: [kind=etc] etc_klokan_greyuv_identifier
 
 - **NAŠE** řešení problémů: sledovat změny v prostředí a chování živočichů
 
-<sub>další řešení: skladba "Řezník - Autogenocida"</sub>
+<sub>další řešení: skladba "[Řezník - Autogenocida](https://lyricstranslate.com/en/autogenocida-autogenocide.html)"</sub>
 
 ![](./gay.jpg)
