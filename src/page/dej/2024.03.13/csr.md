@@ -15,4 +15,3 @@ module: [kind=dej] dej_csr_identifier
     - Smrt masaryka - úpadek demokracie
     - budování elektráren, elektrifikace
     - přípravy na válku, začala dříve.
-    -

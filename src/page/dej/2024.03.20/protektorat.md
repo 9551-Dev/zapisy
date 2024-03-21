@@ -4,7 +4,7 @@ module: [kind=dej] dej_protektorat_identifier
 # Protektorát (1939-1945)
 - období německé nadvlády -> likvidovány zbytky demokracie
 ### Prezident bez pravomocí, (vliv berlína) = Hácha
-### nanřazená funkce protektor = Německý politik (např Heydrich)
+### nadřazená funkce protektor = Německý politik (např Heydrich)
 - Předseda vlády = Beran
 - Př. likvidace demokracie
     - zákaz poslechu cizího rozhlasu
