@@ -1,7 +1,7 @@
 ---
 module: [kind=cjl] cjl_starovek_identifier
 ---
-# Stačověk
+# Starověk
 Zápis do literatury o starověku
 
 - počátky 4./3. tisíciletí př. n. l.

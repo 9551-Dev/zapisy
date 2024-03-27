@@ -20,10 +20,9 @@ module: [kind=fyz] pohyby_grav_pole_identifier
 - vodorovný pohyb
 - vrh vzhůru
 
-# nedoděláno
-<p class="rovnice">v<sub>y</sub> = g * t</p>
-<p class="rovnice">Δ<sub>y</sub> = 1/2 * g * t<sup>2</sup></p>
-<p class="rovnice">v<sub>x</sub> = v (číslo)</p>
-<p class="rovnice">Δ<sub>x</sub> = v * t</p>
+<p class="rovnice">v<sub>y</sub> = v<sub>y</sub> - g*t</p>
+<p class="rovnice">Δy<sub>y</sub> = v<sub>y</sub> - (1/2)*g*t<sup>2</sup></p>
+<p class="rovnice">v<sub>x</sub> = konst = v<sub>x</sub></p>
+<p class="rovnice">Δ<sub>x</sub> = v<sub>y</sub>d</p>
 
 <link rel="stylesheet" href="../../__formatting__/rovnice.css">

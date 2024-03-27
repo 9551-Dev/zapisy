@@ -5,6 +5,7 @@
   /src/page/fyz
   /src/page/dej
   /src/page/cjl
+  /src/page/etc
   /src/page/example
 )
 
@@ -30,6 +31,7 @@
     (prg "programování")
     (dej "dějepis")
     (cjl "čeština")
+    (etc "ostatní")
   )
 
   (library-path
@@ -37,6 +39,7 @@
     /src/page/fyz
     /src/page/dej
     /src/page/cjl
+    /src/page/etc
     /src/page/example
   )
 )
