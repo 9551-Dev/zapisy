@@ -35,5 +35,5 @@ Co vedlo k prvné světové válce
 - **záminka k válce**: atentát na rakouského následovníka trůnu Františka Ferdinanda d'Este a jeho manželku Žofii
 
 ---
-- 28.6.1914 byl v Sarajevu spáchán atentát na rakouského následníka Františka Ferdinanda d'Este
+- 28.6.1914 byl v Sarajevu spáchán atentát na rakouského následníka Františka Ferdinanda D'Este
 - Atentát provedl Gavrilo Princip
