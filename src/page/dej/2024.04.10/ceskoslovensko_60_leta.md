@@ -1,5 +1,5 @@
 ---
-module: [kind=fyz] dej_ceskoslovensko_60_leta_identifier
+module: [kind=dej] dej_ceskoslovensko_60_leta_identifier
 ---
 
 # Československo 60. léta
