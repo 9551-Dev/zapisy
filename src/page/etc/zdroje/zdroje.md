@@ -2,14 +2,16 @@
 module: [kind=etc] etc_zdroje_identifier
 ---
 
+## Zdroje
+
 1. **Voda:**
-   - **Problém:** Nadměrná spotřeba, znečištění a změny klimatu ohrožují dostupnost a kvalitu vody.
-   - **Řešení:** Zlepšení správy vodních zdrojů, úsporná opatření, ochrana ekosystémů, filtrace znečištěné vody.
+   - **Problém:** Nadměrná spotřeba (plítvání), znečištění a změny klimatu ohrožují dostupnost a kvalitu vody.
+   - **Řešení:** Zlepšení správy vodních zdrojů, spoření vody, ochrana ekosystémů a filtrace znečištěné vody.
 
 2. **Dřevo/Lesy:**
-   - **Problém:** Nadměrná těžba, odlesňování a změny klimatu ohrožují stabilitu lesních ekosystémů.
-   - **Řešení:** Udržitelný lesní management, obnova lesů, ochrana biodiverzity nad ziskem.
+   - **Problém:** Nadměrná těžba, odlesňování a změny klimatu ohrožují lesní ekosystémy.
+   - **Řešení:** Změna údržby lesů (omezení kácení zdravých stromů), obnova poškozených lesů (např. výsazbou nových stromů) a ochrana biodiverzity v lesech.
 
 3. **Půda/Zemědělská půda:**
-   - **Problém:** Intenzivní zemědělství, eroze, znečištění a urbanizace snižují úrodnost půdy.
-   - **Řešení:** Udržitelné zemědělství, ochrana přírodních ekosystémů, minimalizace negativních vlivů.
+   - **Problém:** Náročné zemědělství, znečištění půdy a vod snižují úrodnost půdy.
+   - **Řešení:** Udržitelné zemědělství, ochrana přírodních ekosystémů a omezení pesticidů dalších chemických látek.
