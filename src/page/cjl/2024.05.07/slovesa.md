@@ -77,3 +77,25 @@ module: [kind=cjl] cjl_slovesa_identifier
     - Dnes hrají v divadle Prodanou nevěstu      (trpný equiv. Prodaná nevěsta se hraje v divadle)
     - Knihu poškodil nešikovný čtenář            (trpný equiv. Kniha byla poškozena nešikovným čtenářem)
     - V pekárně pečou chleba, housky a rohlíky.  (trpný equiv. V pekárně se pečou chleba, housky a rohlíky)
+
+## Vid
+| dokonavý   	| vstal jsem   	| vstanu  	|                   	| čas: minulý a budoucí        	    |
+|------------	|--------------	|---------	|-------------------	|----------------------------------	|
+| nedokonavý 	| svtával jsem 	| vstávám 	| vud. budu vstávat 	| časy: minulý, přítomný a budoucí 	|
+
+| sloveso    	| vid        	|
+|------------	|------------	|
+| otvírat    	| nedokonavý 	|
+| potřebovat 	| nedokonavý 	|
+| existovat  	| nedokonavý 	|
+| spravit    	| dokonavý   	|
+| získat     	| dokonavý   	|
+| přibývat   	| nedokonavý 	|
+| tvrdit     	| nedokonavý 	|
+| poslat     	| dokonavý   	|
+| objevovat  	| nedokonavý 	|
+| odpovídat  	| nedokonavý 	|
+| česat      	| dokonavé   	|
+| slyšet    	| dokonavé   	|
+| otevřít    	| dokonavé   	|
+| vyřítit    	| dokonavé   	|
