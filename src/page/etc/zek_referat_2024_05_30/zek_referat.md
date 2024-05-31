@@ -1,3 +1,7 @@
+---
+module: [kind=etc] etc_zek_referat_20240531_identifier
+---
+
 # Těžké kovy v životním prostředí
 Těžké kovy se přirozeně vyskytují v prostředí, ale pouze v malých množstvích. Jelikož dost z těchto kovů má ve světě využití, začaly se rozšířeně používat, což vedlo k jejich rozšíření do životního prostředí ve větším množství. Mnoho těžkých kovů je toxických, hlavně ve větších dávkách. Většina těžkých kovů volně v prostředí v dnešní době je z důvodů vlivu člověka.
 
