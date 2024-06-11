@@ -1,5 +1,5 @@
 ---
-module: [kind=fyz] fyz_idealni_plyn
+module: [kind=fyz] fyz_idealni_plyn_identifier
 ---
 
 # Idealání plyn
