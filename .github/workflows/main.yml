@@ -15,7 +15,7 @@ jobs:
     - name: Setup illuaminate
       run: |
         if [ ! -d "bin" ]; then mkdir bin; fi
-        if [ ! -f "bin/illuaminate" ]; then wget -q -O bin/illuaminate https://squiddev.cc/illuaminate/linux-x86-64/illuaminate; fi
+        if [ ! -f "bin/illuaminate" ]; then wget -q -O bin/illuaminate https://squiddev.cc/illuaminate/bin/latest/illuaminate-linux-x86_64; fi
         chmod +x bin/illuaminate
     - name: Build page
       run: |
