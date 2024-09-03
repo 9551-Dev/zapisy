@@ -6,6 +6,7 @@
   /src/page/dej
   /src/page/cjl
   /src/page/etc
+  /src/page/mat
   /src/page/example
 )
 
@@ -27,6 +28,7 @@
 
   (module-kinds
     (examplemodule "Example Module")
+    (mat "matematika")
     (fyz "fyzika")
     (prg "programování")
     (dej "dějepis")
@@ -35,6 +37,7 @@
   )
 
   (library-path
+    /src/page/mat
     /src/page/prg
     /src/page/fyz
     /src/page/dej

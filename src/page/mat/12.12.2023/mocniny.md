@@ -1,5 +1,5 @@
 ---
-module: [kind=fyz] mat_pravidla_mocnin_identifier
+module: [kind=mat] mat_pravidla_mocnin_identifier
 ---
 # Pravidla mocnin
 pravidla skládáni mocnin v rovnicích (příklady)
