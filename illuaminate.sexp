@@ -7,7 +7,6 @@
   /src/page/cjl
   /src/page/etc
   /src/page/mat
-  /src/page/example
 )
 
 
@@ -16,10 +15,10 @@
   (index web/index.md)
 
   (site
-    (title "Illuaminate Template")
+    (title "Zápisy :3")
     (logo src/web/pack.png)
-    (url https://computercraftgraphics.github.io/illuaminate_template/)
-    (source-link https://github.com/ComputercraftGraphics/illuaminate_template/)
+    (url https://zapis.devvie.cc/)
+    (source-link https://github.com/9551-Dev/zapisy/)
 
     (styles src/web/styles.css)
     ;; (scripts build/rollup/index.js)
@@ -27,7 +26,6 @@
   )
 
   (module-kinds
-    (examplemodule "Example Module")
     (mat "matematika")
     (fyz "fyzika")
     (prg "programování")
@@ -43,7 +41,6 @@
     /src/page/dej
     /src/page/cjl
     /src/page/etc
-    /src/page/example
   )
 )
 

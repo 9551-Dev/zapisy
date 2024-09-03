@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: clean page
-      run: |
-        if [ -d "docs" ]; then rm -r "docs"; fi
     - name: Setup illuaminate
       run: |
         if [ ! -d "bin" ]; then mkdir bin; fi
