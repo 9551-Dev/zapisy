@@ -6,6 +6,7 @@
   /src/page/dej
   /src/page/cjl
   /src/page/etc
+  /src/page/tvy
   /src/page/mat
 )
 
@@ -26,16 +27,18 @@
   )
 
   (module-kinds
-    (mat "matematika")
-    (fyz "fyzika")
-    (prg "programování")
-    (dej "dějepis")
-    (cjl "čeština")
-    (etc "ostatní")
+    (mat "Matematika")
+    (fyz "Fyzika")
+    (prg "Programování")
+    (dej "Dějepis")
+    (cjl "Čeština")
+    (tvy "Technické vybavení")
+    (etc "Ostatní")
   )
 
   (library-path
     /src/page/mat
+    /sr/page/tvy
     /src/page/prg
     /src/page/fyz
     /src/page/dej

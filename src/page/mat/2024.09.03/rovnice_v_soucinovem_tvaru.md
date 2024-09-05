@@ -75,7 +75,7 @@ x = {2;3}
 ![](./thingymadig.png)
 
 
-## Příklad. 4
+## Příklad 4
 
 (x + 6) * (4 - x) * (-3x + 2) > 0
 
@@ -86,3 +86,33 @@ nb2 = 4
 nb3 = 2/3
 
 ![](./pr4.png)
+
+## Příklad 5.
+(4x + 2)^2 >= 0
+
+- rozložení mocniny
+
+(4x + 2) * (4x + 2) >= 0
+
+nb1 = -0.5
+
+nb2 = -0.5
+
+nb = -0.5
+
+- pow(2) se chová jako "absolutní" hodnota
+
+![](./pr5.png)
+
+K = R
+
+## Příklad 6
+(x + 3)*(2x - 20) < 0
+
+nb1 = -3
+
+nb2 = 10
+
+nb = [-3;10]
+
+![](./pr6.png)
