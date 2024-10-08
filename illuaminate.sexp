@@ -8,6 +8,7 @@
   /src/page/etc
   /src/page/tvy
   /src/page/mat
+  /src/page/cit
   /src/page/aj
 )
 
@@ -34,6 +35,7 @@
     (dej "Dějepis")
     (cjl "Čeština")
     (tvy "Technické vybavení")
+    (cit "Číslicová technika")
     (etc "Ostatní")
     (aj "Angličtina")
   )
@@ -46,6 +48,7 @@
     /src/page/dej
     /src/page/cjl
     /src/page/etc
+    /src/page/cit
     /usr/page/aj
   )
 )
