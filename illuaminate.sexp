@@ -8,6 +8,7 @@
   /src/page/etc
   /src/page/tvy
   /src/page/mat
+  /src/page/aj
 )
 
 
@@ -34,16 +35,18 @@
     (cjl "Čeština")
     (tvy "Technické vybavení")
     (etc "Ostatní")
+    (aj "Angličtina")
   )
 
   (library-path
     /src/page/mat
-    /sr/page/tvy
+    /src/page/tvy
     /src/page/prg
     /src/page/fyz
     /src/page/dej
     /src/page/cjl
     /src/page/etc
+    /usr/page/aj
   )
 )
 
