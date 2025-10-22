@@ -48,8 +48,8 @@ Model se dělí do sedmi vrstev, od nejnižší (až hardwarove) po nejvyšší 
     - **TCP** (Transfer Control Protocol): spojovaný, ověřuje přichod dat a je spolehlivý, kontroluje pořadí paketu a případné kopie
     - **UDP** (User Datagram Protocol): Rychlý, nespojovaný, ale bez záruky doručení dat.
 
-<div style="background: rgb(20,160,250); display: inline-block">
-    <img src="./protocol_img.png" style="display: block; width: 50%"></img>
+<div style="background: rgb(20,160,250); display: inline-block; width: 50%">
+    <img src="./protocol_img.png" style="display: block"></img>
 </div>
 
 ## Relační Vrstva
