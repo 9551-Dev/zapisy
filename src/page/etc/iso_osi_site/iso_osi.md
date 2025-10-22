@@ -47,7 +47,10 @@ Model se dělí do sedmi vrstev, od nejnižší (až hardwarove) po nejvyšší 
 - Protokoly např:
     - **TCP** (Transfer Control Protocol): spojovaný, ověřuje přichod dat a je spolehlivý, kontroluje pořadí paketu a případné kopie
     - **UDP** (User Datagram Protocol): Rychlý, nespojovaný, ale bez záruky doručení dat.
-<img src="./protocol.png" style="display: block; width: 50%"></img>
+
+<div style="background: rgb(20,160,250); display: inline-block">
+    <img src="./protocol_img.png" style="display: block; width: 50%"></img>
+</div>
 
 ## Relační Vrstva
 - Řídí relace (propojení) mezi aplikacemi, jejich navázání, správu, ukončení a synchronizaci
