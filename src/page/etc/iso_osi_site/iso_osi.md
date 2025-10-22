@@ -58,7 +58,7 @@ Model se dělí do sedmi vrstev, od nejnižší (až hardwarove) po nejvyšší 
 - Synchronizační body při větším množství dat.
 
 ## Prezentační vrstva:
-- Mění přijatá a odeslaná data tak aby obě strany jim rozuměly, například se stará o
+- Mnění přijatá a odeslaná data tak aby obě strany jim rozuměly, například se stará o
     - šifrování (SSL/TLS)
     - kompresy
     - kodování/formátování (ASCII/UTF8)
