@@ -76,6 +76,6 @@ Model se dělí do sedmi vrstev, od nejnižší (až hardwarove) po nejvyšší 
 - všechny ruzne služby sitove na vyšší urovni sem zapadají, ne jen např webove stranky
 
 # Různé klíčové pojmy:
-**Zapouzdření** (Encapsulation) - jak data přecházení z vyšší vrstvy do nižší, každá vrstva přidá vlastní západí/zahlaví, na straně přijemce se děje opačný proces
-** Modularita vrstev** - Vrstva z vyšších vrstvách používá služby z vrstvy pod ní a poskytuje služby vrstvě nad ní
-**Ref. vs skutečné modely" - model ISO/OSI je sice pěkný ale v praxi se někdy třeba používá TCP/IP model s méně vrstvami.
+- **Zapouzdření** (Encapsulation) - jak data přecházení z vyšší vrstvy do nižší, každá vrstva přidá vlastní západí/zahlaví, na straně přijemce se děje opačný proces
+- ** Modularita vrstev** - Vrstva z vyšších vrstvách používá služby z vrstvy pod ní a poskytuje služby vrstvě nad ní
+- **Ref. vs skutečné modely" - model ISO/OSI je sice pěkný ale v praxi se někdy třeba používá TCP/IP model s méně vrstvami.
