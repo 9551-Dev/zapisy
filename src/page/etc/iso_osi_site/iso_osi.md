@@ -30,6 +30,8 @@ Model se dělí do sedmi vrstev, od nejnižší (až hardwarove) po nejvyšší 
 - Jak jsou samotné 0/1 přenášeny
 - Neřeší a nezajištuje kontrolu dat/chyb.
 
+---
+
 ## Linková vrstva
 - Stará se o přenos "framů" mezi zařízeními v síti, adresováni zařízení, a detekci chyb v přenosu dat. (např CRC)
 - dělí se na podvrstvy
@@ -37,10 +39,14 @@ Model se dělí do sedmi vrstev, od nejnižší (až hardwarove) po nejvyšší 
     - **LLC** (Logical Link Control): stará se o spolehliví přenos dat a jak se různé protokoly chovají na siti.
 - Např. jednoduchý switch dělá v linkové vrstvě.
 
+---
+
 ## Síťová vrstva
 - Převážně se stará o logické adresování sítě (IP adresy), směrování paketu mezi sitěmi, routing (směrování)
 - Různé protokoly, např: IPV4, IPv4, ICMP
 - Router např pracuje na síťové vrstvě.
+
+---
 
 ## Transportní vrstva
 - Stará se o přenos dat mezi uzly sítě s námi požadovanou kvalitou/spolehlivostí, záleží na protokolu
@@ -52,16 +58,22 @@ Model se dělí do sedmi vrstev, od nejnižší (až hardwarove) po nejvyšší 
     <img src="./protocol_img.png" style="display: block"></img>
 </div>
 
+---
+
 ## Relační Vrstva
 - Řídí relace (propojení) mezi aplikacemi, jejich navázání, správu, ukončení a synchronizaci
 - Kdo komunikuje a jak dlouho.
 - Synchronizační body při větším množství dat.
+
+---
 
 ## Prezentační vrstva:
 - Mnění přijatá a odeslaná data tak aby obě strany jim rozuměly, například se stará o
     - šifrování (SSL/TLS)
     - kompresy
     - kodování/formátování (ASCII/UTF8)
+
+---
 
 ## Aplikační vrstva
 - Nejvíc abstraktní vrstva a nejblíž uživateli, ruzne sitově služby jako např prohližeč nebo email client
